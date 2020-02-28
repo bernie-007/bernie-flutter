@@ -1,0 +1,39 @@
+name: matching_tantan_app
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  shimmer: ^1.0.1
+  http: ^0.12.0+2
+  image_picker: ^0.6.2+2
+  pusher_websocket_flutter: ^0.1.1
+  firebase_auth: ^0.15.0+1
+  flutter_local_notifications: ^0.8.4+3
+  flutter_launcher_icons: "^0.7.3"
+  geocoder: ^0.2.1
+  location: ^2.3.5
+  shared_preferences: ^0.5.4+6
+  flushbar: ^1.9.1
+  pattern_formatter: ^1.0.1
+  share: ^0.6.3+3
+  flutter_native_timezone: ^1.0.4
+  permission_handler: ^4.2.0+hotfix.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/app-icon2.png

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "591586931733",
+    "firebase_url": "https://ylikephoneauth.firebaseio.com",
+    "project_id": "ylikephoneauth",
+    "storage_bucket": "ylikephoneauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591586931733:android:47038b37d0c9ae9d0a8a1c",
+        "android_client_info": {
+          "package_name": "com.example.matching_tantan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591586931733-kilo3l691nu2jgho6n9u3vs3m27c50rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matching_tantan_app",
+            "certificate_hash": "ffd6a47baf5c24d3acc611dcb4d52110b544bbee"
+          }
+        },
+        {
+          "client_id": "591586931733-a0vdtokvei3s6p1qfs2lutq82oeujbd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAGG2CO9Ues_JbSTtVlvEton9dy7DNtms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591586931733-a0vdtokvei3s6p1qfs2lutq82oeujbd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
